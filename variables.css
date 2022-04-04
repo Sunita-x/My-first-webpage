@@ -1,0 +1,25 @@
+div2 {
+  font-size: 20px;
+  color: green;
+  background-color: hotpink; }
+  div2 ul {
+    font-size: 15px;
+    color: blue; }
+
+.mes1, .mes2, .mes3 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  border: 1px dashed hotpink; }
+
+.mes1 {
+  color: aqua; }
+
+.mes2 {
+  color: yellowgreen;
+  text-align: center; }
+
+.mes3 {
+  color: orangered;
+  text-align: right; }
+
+/*# sourceMappingURL=variables.css.map */

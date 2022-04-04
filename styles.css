@@ -1,0 +1,31 @@
+
+#duck {
+    color: yellow;
+    background-color: lightgreen;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30pxs;
+    font-weight: bold;
+}
+table {
+    margin: 20px;
+    border: 1px dashed black;
+    border-collapse: collapse;
+
+}
+
+th, td {
+    border: 1px dashed black;
+
+}
+
+.here {
+    margin: 20px;
+    color: brown;
+}
+
+a {
+    margin: 20px;
+    color: pink;
+    font-weight: bold;
+}

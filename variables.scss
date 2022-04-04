@@ -1,0 +1,35 @@
+$color: green;
+
+div2 {
+    font-size: 20px;
+    color: $color;
+    background-color: hotpink;
+
+    ul {
+        font-size: 15px;
+        color: blue;
+    }
+}
+
+%message {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border: 1px dashed hotpink;
+
+}
+
+.mes1 {
+    @extend %message;
+    color: aqua;
+}
+.mes2 {
+    @extend %message;
+    color: yellowgreen;
+    text-align: center;
+}
+
+.mes3 {
+    @extend %message;
+    color: orangered;
+    text-align: right;
+}
